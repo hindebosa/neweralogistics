@@ -10,6 +10,12 @@ body {
   padding: 90px 0;
 }
 
+.fit-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
 .layout_padding2 {
   padding: 75px 0;
 }
